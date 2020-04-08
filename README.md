@@ -19,14 +19,17 @@ tem histórico de tratamento de pacientes e também histórico financiero;
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+# ATRIBUIÇÕES GERAIS DO SISTEMA
 
-# O Sistema não precisa da intervenção de nenhuma pessoa para agendamento de consulta tudo ocorre diretamente entre paciente e médico
+* O Sistema não precisa da intervenção de nenhuma pessoa para agendamento de consulta tudo ocorre diretamente entre paciente e médico
 
-# O Administrador do sistema tem acesso a todo o histórico de número de pacientes e de médicos cadastrados e faturamentos total gerados pelo sistema
+* O Administrador do sistema tem acesso a todo o histórico de número de pacientes e de médicos cadastrados e faturamentos total gerados pelo sistema
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# ESPERO QUE GOSTEM E AJUDE NO ESTUDO OU NA ANALISE DOS PARAMETROS USADOS NESSE PROJETO E FERRAMENTAS EMPREGADAS NO MESMO!
+* ESPERO QUE GOSTEM E AJUDE NO ESTUDO OU NA ANALISE DOS PARAMETROS USADOS NESSE PROJETO E FERRAMENTAS EMPREGADAS NO MESMO!
 
-BY SALATIEL BORGES
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# BY SALATIEL BORGES
 
