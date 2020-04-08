@@ -1,0 +1,139 @@
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\ApplicationInsights.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\csc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\vbc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\DBProject.dll.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\DBProject.pdb
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.Web.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.Web.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Project\DBProject\Code\DBProject\obj\Debug\DBProject.pdb
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\ApplicationInsights.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\csc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\vbc.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\DBProject.dll.config
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\DBProject.pdb
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.Web.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.Web.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.dll
+D:\FAST\4th Semester (Spring 2017)\Database Systems (DB)\Github Project Code\Code\DBProject\obj\Debug\DBProject.pdb
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\ApplicationInsights.config
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\csc.exe
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\vbc.exe
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\DBProject.dll.config
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\DBProject.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\DBProject.pdb
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.Web.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.Web.xml
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Debug\DBProject.dll
+C:\Users\Supervisor\Downloads\Clinic-Management-System-ASP.NET-master\Clinic-Management-System-ASP.NET-master\Code\DBProject\obj\Debug\DBProject.pdb
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\ApplicationInsights.config
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\csc.exe
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\vbc.exe
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\VBCSCompiler.exe
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\DBProject.dll.config
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\DBProject.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\DBProject.pdb
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.Web.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.ApplicationInsights.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.Web.xml
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.ApplicationInsights.xml
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\obj\Debug\DBProject.dll
+D:\Desenvolvimento\DoutorID\DoutorID\DBProject\obj\Debug\DBProject.pdb

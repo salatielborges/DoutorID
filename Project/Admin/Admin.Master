@@ -1,0 +1,167 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="DBProject.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+
+    
+    <!--------------------------------- Styling -------------------------------->
+
+    <!-- Google Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700|Lato:400,100,300,700,900' rel='stylesheet' type='text/css'/>
+	
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+
+
+    <!-- Patient Style -->
+    <link rel="stylesheet" href="/assets/css/patient-style.css"/>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+
+
+    <!------------------------------------Styling for Footer-------------------------------------->
+    <meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="keywords" content="footer, address, phone, icons" />
+
+	<link rel="stylesheet" href="/assets/css/demo.css"/>
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.css"/>
+	<link rel="stylesheet" href="/assets/css/footer-distributed-with-address-and-phones.css"/>
+	
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"/>
+
+	<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+
+    <!-- Head Content Place Holder -->
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+
+
+
+    <title>Inicio</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+
+
+<body>
+    
+    
+        <div>
+
+            <!-- Navigation Bar starts from here -->
+             <nav class="navbar navbar-inverse">
+                    <div class="container-fluid" style="background-color:#4c4f51">
+           
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="/SignUp.aspx"><span class="glyphicon glyphicon-log-in"></span> Sair</a></li>
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="AddUsuario.aspx"><span class="glyphicon glyphicon-plus"></span> Funcionário</a></li>
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="DoctorRegistrationForm.aspx"><span class="glyphicon glyphicon-plus"></span> Médico</a></li>
+                        </ul>
+
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="ManageClinic.aspx"><span class="glyphicon glyphicon-cog"></span> Cadastros</a></li>
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="AdminHome.aspx"><span class="glyphicon glyphicon-home"></span> Inicio</a></li>
+                        </ul>
+
+                   </div>
+            </nav>
+            <!--Navigation Bar ends here -->
+
+
+
+
+
+           
+         <!-- Body Content Place Holder -->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        </div>
+
+
+
+
+
+
+        <!--- Footer starts here -->
+        <footer class="footer-distributed"  >
+
+			<div class="footer-left">
+
+				<h3>Doutor<span>ID</span></h3>
+
+				<p class="footer-company-name">DoutroID Sistemas &copy; 2020</p>
+			</div>
+
+
+			<div class="footer-center">
+
+				<div>
+					<i class="fa fa-map-marker"></i>
+					<p><span>Avenida 136</span> Marista, Goiânia - GO</p>
+				</div>
+
+				<div>
+					<i class="fa fa-phone"></i>
+					<p>(62) 3111-1111</p>
+				</div>
+
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="mailto:suporte@doutorid.com">suporte@doutorid.com</a></p>
+				</div>
+
+			</div>
+
+			<div class="footer-right">
+
+				<p class="footer-company-about">
+					<span>Sobre a Gente</span>
+					Nossa missão é fornecer serviços de saúde de qualidade a todos em um ambiente confortável e aconchegante. Clínicas que oferecem principalmente consultas especializadas com os melhores profissionais.
+				</p>
+
+    			<div class="footer-icons">
+
+    				<a href="#"><i class="fa fa-facebook"></i></a>
+
+    			</div>
+
+			</div>
+
+		</footer>
+
+        <!--- Footer ends here -->
+
+
+
+  
+</body>
+
+</html>
