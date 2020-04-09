@@ -6,7 +6,7 @@ Sistema Desenvolvido em C# .NET para Atendimento em consultório médico!
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# O SISTEMA CONTA COM:
+# O SISTEMA CONTA COM
 
 * Pagina de Admin onde são cadastrados funcionários e médicos;
 
